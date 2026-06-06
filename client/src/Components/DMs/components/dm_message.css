@@ -1,0 +1,42 @@
+.dm___message {
+  display: flex;
+  margin-bottom: 7px;
+}
+.dm_message {
+  margin-left: 24px;
+  background-color: antiquewhite;
+  display: flex;
+  border-radius: 37px;
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+  padding: 5px;
+}
+
+.dm__message_info {
+  margin-left: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.dm__message_info > p {
+  max-width: 405px;
+  word-wrap: break-word;
+}
+.dm_timestamp {
+  margin-left: 20px;
+  font-size: x-small;
+  padding-right: 18px;
+  padding-top: 24px;
+}
+.chat_reciever__dms {
+  margin-left: auto;
+  margin-right: 24px;
+  background-color: #f2f2f2;
+  display: flex;
+  box-shadow: -4px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 37px;
+}
+.chat_reciever__dms > .dm_timestamp {
+  padding-right: 18px;
+  padding-top: 53px;
+}
