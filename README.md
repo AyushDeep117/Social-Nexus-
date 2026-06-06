@@ -3,7 +3,7 @@ This user documentation will guide you through the various functions and feature
 
 # User Documentation
 ### Developers
-This project was created by Anshuman Ravi
+This project was created by Ayush Deep
 
 
 ## Table of Contents
